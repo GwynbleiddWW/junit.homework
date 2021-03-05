@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.netology.Lambda1.CalculatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-05T15:11:48" hostname="DESKTOP-ONH98QF" time="0.03">
+  <properties/>
+  <testcase name="minusDiff()" classname="ru.netology.Lambda1.CalculatorTest" time="0.03"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

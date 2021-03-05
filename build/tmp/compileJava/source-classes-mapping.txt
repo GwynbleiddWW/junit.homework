@@ -1,0 +1,4 @@
+ru/netology/Lambda1/Calculator.java
+ ru.netology.Lambda1.Calculator
+ru/netology/Lambda1/Main.java
+ ru.netology.Lambda1.Main
